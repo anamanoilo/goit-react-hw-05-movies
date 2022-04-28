@@ -1,17 +1,20 @@
+import { Route, Redirect, Switch } from 'react-router-dom';
+import api from 'services/ApiService';
+import MoviesList from './MoviesList';
+import Navigation from './Navigation';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        textTransform: 'uppercase',
-        color: '#010101',
-      }}
-    >
-      React homework template
+    <div>
+      <Navigation />
+      <Switch>
+        <Route path="/">
+          <MoviesList />
+        </Route>
+        <Route path="/movies"></Route>
+        <Route path="/pagenotfound">{/* <PageNotFound /> */}</Route>
+        <Redirect to="/pagenotfound" />
+      </Switch>
     </div>
   );
 };
