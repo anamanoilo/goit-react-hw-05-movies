@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1a480a0e.css",
-    "main.js": "/static/js/main.b3276378.js",
+    "main.js": "/static/js/main.7c15f3bf.js",
     "movies-list.css": "/static/css/movies-list.8bc7d217.chunk.css",
     "movies-list.js": "/static/js/movies-list.6650f36b.chunk.js",
     "movie-details-page.css": "/static/css/movie-details-page.9c1dd27d.chunk.css",
-    "movie-details-page.js": "/static/js/movie-details-page.c43f3fbd.chunk.js",
+    "movie-details-page.js": "/static/js/movie-details-page.d5526c08.chunk.js",
     "movie-search-page.css": "/static/css/movie-search-page.80000b32.chunk.css",
-    "movie-search-page.js": "/static/js/movie-search-page.96265938.chunk.js",
+    "movie-search-page.js": "/static/js/movie-search-page.1f52d14a.chunk.js",
     "cast.js": "/static/js/cast.8aeca210.chunk.js",
     "reviews.css": "/static/css/reviews.8c1c4eca.chunk.css",
     "reviews.js": "/static/js/reviews.09b4ed36.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/not_found_ver.jpg": "/static/media/not_found_ver.ab1fa65686d030bafacd.jpg",
     "index.html": "/index.html",
     "main.1a480a0e.css.map": "/static/css/main.1a480a0e.css.map",
-    "main.b3276378.js.map": "/static/js/main.b3276378.js.map",
+    "main.7c15f3bf.js.map": "/static/js/main.7c15f3bf.js.map",
     "movies-list.8bc7d217.chunk.css.map": "/static/css/movies-list.8bc7d217.chunk.css.map",
     "movies-list.6650f36b.chunk.js.map": "/static/js/movies-list.6650f36b.chunk.js.map",
     "movie-details-page.9c1dd27d.chunk.css.map": "/static/css/movie-details-page.9c1dd27d.chunk.css.map",
-    "movie-details-page.c43f3fbd.chunk.js.map": "/static/js/movie-details-page.c43f3fbd.chunk.js.map",
+    "movie-details-page.d5526c08.chunk.js.map": "/static/js/movie-details-page.d5526c08.chunk.js.map",
     "movie-search-page.80000b32.chunk.css.map": "/static/css/movie-search-page.80000b32.chunk.css.map",
-    "movie-search-page.96265938.chunk.js.map": "/static/js/movie-search-page.96265938.chunk.js.map",
+    "movie-search-page.1f52d14a.chunk.js.map": "/static/js/movie-search-page.1f52d14a.chunk.js.map",
     "cast.8aeca210.chunk.js.map": "/static/js/cast.8aeca210.chunk.js.map",
     "reviews.8c1c4eca.chunk.css.map": "/static/css/reviews.8c1c4eca.chunk.css.map",
     "reviews.09b4ed36.chunk.js.map": "/static/js/reviews.09b4ed36.chunk.js.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.1a480a0e.css",
-    "static/js/main.b3276378.js"
+    "static/js/main.7c15f3bf.js"
   ]
 }
